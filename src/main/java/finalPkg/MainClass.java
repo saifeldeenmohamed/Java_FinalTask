@@ -34,11 +34,11 @@ public class MainClass {
         // PRINTING
         System.out.println("titles =");
         titlesFn(jobs);
-//        System.out.println("companies =");
-//        compainesFn(jobs);
-//        System2.out.println("Areas =");
-//        locationFn(jobs);
-//        System.out.println("Skills =");
-//        skillsFn(jobs);
+        System.out.println("companies =");
+        compainesFn(jobs);
+        System.out.println("Areas =");
+        locationFn(jobs);
+        System.out.println("Skills =");
+        skillsFn(jobs);
     }
 }
